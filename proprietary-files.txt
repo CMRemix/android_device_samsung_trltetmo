@@ -8,7 +8,6 @@ vendor/lib/liblocationservice.so
 vendor/lib/libulp2.so
 
 # Qualcomm framework
--vendor/lib/libperipheral_client.so
 vendor/lib/libmdmdetect.so
 vendor/lib/libconfigdb.so
 vendor/lib/libdiag.so
@@ -34,7 +33,6 @@ lib/libjpegehw.so
 lib/libjpegdhw.so
 lib/libedmnativehelper.so
 lib/libcontrolcsc.so
-lib/libcsc.so
 lib/libbt-iopdb.so
 lib/libbt-iopdb_mod.so
 lib/libbt-vendor.so
