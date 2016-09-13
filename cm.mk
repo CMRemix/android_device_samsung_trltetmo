@@ -29,5 +29,5 @@ PRODUCT_MODEL := SM-N910T
 PRODUCT_MANUFACTURER := samsung
 
 # Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=trltetmo TARGET_DEVICE=trltetmo BUILD_FINGERPRINT="samsung/trltetmo/trltetmo:6.0.1/MMB29M/N910TUVS2EPG2:user/release-keys" PRIVATE_BUILD_DESC="trltetmo-user 6.0.1 MMB29M N910TUVS2EPG2 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=trltetmo TARGET_DEVICE=trltetmo BUILD_FINGERPRINT="samsung/trltetmo/trltetmo:6.0.1/MMB29M/N910TUVS2EPG2:user/release-keys" PRIVATE_BUILD_DESC="trltetmo-user_6.0.1_MMB29M_N910TUVS2EPG2_release-keys"
 

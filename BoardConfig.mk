@@ -20,9 +20,5 @@ TARGET_OTA_ASSERT_DEVICE := trltetmo,trltecan
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := apq8084_sec_trlte_tmo_defconfig
 
-# Init
-TARGET_INIT_VENDOR_LIB := libinit_trltetmo
-TARGET_UNIFIED_DEVICE := true
-
 # inherit from the proprietary version
 -include vendor/samsung/trltetmo/BoardConfigVendor.mk
