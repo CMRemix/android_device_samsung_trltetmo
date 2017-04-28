@@ -17,7 +17,7 @@
 $(call inherit-product, device/samsung/trltetmo/full_trltetmo.mk)
 
 # Inherit common CM phone.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/cmremix/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := trltetmo
-PRODUCT_NAME := lineage_trltetmo
+PRODUCT_NAME := cmremix_trltetmo
